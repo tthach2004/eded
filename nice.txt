@@ -55797,7 +55797,7 @@
   },
   {
     "iden": "5A251D07-3C9D-4BD1-B511-FD20CA81227C",
-    "forename": "Jared",
+    "forename": "Chubb",
     "surname": "Goff",
     "position": "QB",
     "teamID": "DET",
